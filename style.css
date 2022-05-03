@@ -26,6 +26,10 @@ nav ul li{
 	display: inline-block;
 	margin-right: 20px
 }
+.header{
+	background:#000;
+	color:#8a8a8a;
+}
 
 /*---------------- SLIDE ANIMATION --------------*/
 
