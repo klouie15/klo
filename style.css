@@ -27,6 +27,8 @@ nav ul li{
 	margin-right: 20px
 }
 
+/*---------------- SLIDE ANIMATION --------------*/
+
 #slider{
 		overflow: hidden;
 	}
@@ -72,49 +74,8 @@ nav ul li{
 			}
 		}
 
-
-
-
-.slider-frame{
-	overflow: hidden;
-	height: 448px;
-	width: 1900px;
-	margin-left: 0px;
-	margin-top: 20px;
-}
-
-/*---------------- SLIDE ANIMATION --------------*/
-@-webkit-keyframes slide_animation{
-	0% {left:1900px;}
-	10% {left:1900px;}
-	20% {left:1900px;}
-	30% {left:1900px;}
-	40% {left:1900px;}
-	50% {left:1900px;}
-	60% {left:1900px;}
-	70% {left:1900px;}
-	80% {left:1900px;}
-	90% {left:1900px;}
-	100% {left:1900px;}
-}
-.slide-images{
-	width: 1700px;
-	height: 448px;
-	margin: 0 0 0 0;
-	position: relative;
-	-webkit-animation-name: slide_animation;
-	-webkit-animation-duration: 33s;
-	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-direction: continuous;
-	-webkit-animation-play-state: running;
-}
-.img-container{
-	height: 448px;
-	weidth: 1900px;
-	position: relative;
-	float:left;
-}
 /*---------------- END OF ANIMATION PART --------------*/
+
 a{
 	text-decoration: none;
 	color: #555;
