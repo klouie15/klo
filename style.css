@@ -17,7 +17,6 @@ body{
 nav{
 	flex: 1;
 	text-align: center;
-	color: #ffffff;
 }
 nav ul{
 	display: inline-block;
@@ -86,7 +85,7 @@ nav ul li{
 
 a{
 	text-decoration: none;
-	color: #555;
+	color: white;
 }
 p{
 	color: #555;
