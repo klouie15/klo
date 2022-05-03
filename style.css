@@ -27,9 +27,9 @@ nav ul li{
 	margin-right: 20px
 }
 .slider-frame{
-	overflow: hidden;
-	height: 800px;
-	width: 1200px;
+	overflow: show;
+	height: 448px;
+	width: 1900px;
 	margin-left: 0px;
 	margin-top: 20px;
 }
