@@ -49,14 +49,14 @@ nav ul li{
 	100% {left:0px;}
 }
 .slide-images{
-	width: 3600px;
-	height: 800px;
-	margin: 0 0 0 -2400px;
+	width: 1900px;
+	height: 448px;
+	margin: 0 0 0 0px;
 	position: relative;
 	-webkit-animation-name: slide_animation;
 	-webkit-animation-duration: 33s;
-	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-direction: alternate;
+	-webkit-animation-iteration-count: 3;
+	-webkit-animation-direction: continuous;
 	-webkit-animation-play-state: running;
 }
 .img-container{
