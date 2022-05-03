@@ -51,7 +51,7 @@ nav ul li{
 .slide-images{
 	width: 1700px;
 	height: 448px;
-	margin: 0 0 0 0px;
+	margin: 0 0 0 0;
 	position: relative;
 	-webkit-animation-name: slide_animation;
 	-webkit-animation-duration: 33s;
