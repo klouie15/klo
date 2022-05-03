@@ -30,6 +30,9 @@ nav ul li{
 	background:#000;
 	color:#8a8a8a;
 }
+.header .row{
+	margin-top: 70px;
+}
 
 /*---------------- SLIDE ANIMATION --------------*/
 
@@ -111,25 +114,6 @@ p{
 	font-size: 50px;
 	line-height: 60px;
 	margin: 25px 0;
-}
-.btn{
-	display: inline-block;
-	background: #8c8cd9;
-	color: #fff;
-	padding: 8px 30px;
-	margin: 30px 0;
-	border-radius: 30x;
-	transition: background 0.5s;
-}
-
-.btn:hover{
-	background: #141439;
-}
-.header{
-	background: radial-gradient(#fff,#CBE3EA);
-}
-.header .row{
-	margin-top: 70px;
 }
 .categories{
 	margin: 70px 0;
