@@ -36,17 +36,17 @@ nav ul li{
 
 /*---------------- SLIDE ANIMATION --------------*/
 @-webkit-keyframes slide_animation{
-	0% {left:0px;}
-	10% {left:0px;}
-	20% {left:1200px;}
-	30% {left:1200px;}
-	40% {left:2400px;}
-	50% {left:2400px;}
-	60% {left:1200px;}
-	70% {left:1200px;}
-	80% {left:0px;}
-	90% {left:0px;}
-	100% {left:0px;}
+	0% {left:1900px;}
+	10% {left:1900px;}
+	20% {left:1900px;}
+	30% {left:1900px;}
+	40% {left:1900px;}
+	50% {left:1900px;}
+	60% {left:1900px;}
+	70% {left:1900px;}
+	80% {left:1900px;}
+	90% {left:1900px;}
+	100% {left:1900px;}
 }
 .slide-images{
 	width: 1900px;
@@ -56,7 +56,7 @@ nav ul li{
 	-webkit-animation-name: slide_animation;
 	-webkit-animation-duration: 33s;
 	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-direction: alternate;
+	-webkit-animation-direction: continuous;
 	-webkit-animation-play-state: running;
 }
 .img-container{
