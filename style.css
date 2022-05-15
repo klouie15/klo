@@ -45,6 +45,10 @@ nav ul li{
 	padding: 8px 90px;
 	margin: 30px 0;
 	border-radius: 30x;
+	border-top-left-radius:25px;  
+	border-top-right-radius:25px;  
+	border-bottom-right-radius:25px;  
+	border-bottom-left-radius:25px; 
 	transition: background 0.5s;
 }
 
