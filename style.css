@@ -194,6 +194,7 @@ p{
 }
 .single-product .col-2 img{
 	padding: 0;
+	text-align: left;
 }
 .single-product .col-2{
 	padding: 20px;
