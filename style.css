@@ -255,6 +255,9 @@ table{
 	display: flex;
 	flex-wrap: wrap;
 }
+.cart-info p{
+	color: #000;
+}
 th{
 	text-align: left;
 	padding: 5px;
