@@ -297,3 +297,15 @@ td:last-child{
 th:last-child{
 	text-align: right;
 }
+button {
+    border: none;
+}
+
+button:focus {
+    border: none;
+    outline: none;
+}
+
+button:focus{
+    outline:none;
+}
